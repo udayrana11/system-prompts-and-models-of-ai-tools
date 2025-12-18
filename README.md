@@ -3,9 +3,6 @@
   - [📑 Table of Contents](#-table-of-contents)
   - [📂 Available Files](#-available-files)
   - [🛠 Roadmap \& Feedback](#-roadmap--feedback)
-  - [🔗 Connect With Me](#-connect-with-me)
-  - [🛡️ Security Notice for AI Startups](#️-security-notice-for-ai-startups)
-  - [📊 Star History](#-star-history)
 
 ---
 
